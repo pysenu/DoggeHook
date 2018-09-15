@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+printf "\n\n";printf '\e[1;34m%-6s\e' "WARNING: THIS BRANCH IS OUTDATED! Please reinstall cathook by following the install instructions on https://github.com/nullworks/cathook";printf "\n\n"
 #Get updated source code
 git fetch;git pull origin;git submodule update --init --recursive
 #Update cathook

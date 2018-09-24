@@ -32,21 +32,21 @@ and a lot of useful features, including
 * Follow Bots
 * Working crit hack (does not work right now (works right now))
 
-[FULL LIST OF FEATURES HERE](https://github.com/pysenu/cathook/wiki/List-of-features) (list might be outdated)
+[FULL LIST OF FEATURES HERE](https://github.com/pysenu/doghook/wiki/List-of-features) (list might be outdated)
 
 # INSTALLATION
 
 ## Automatic: (Ubuntu 17.10+/Arch based only)
 Run in terminal:
 
-* `wget https://raw.githubusercontent.com/nullworks/One-in-all-cathook-install/master/install-all && bash install-all`
+* `wget https://raw.githubusercontent.com/nullworks/One-in-all-doghook-install/master/install-all && bash install-all`
 
 ## Manual:
 You need CMake to build cathook, CMake should take care of dependencies
 
 Install libglez, libxoverlay and simple-ipc
 
-Clone Cathook (`git clone --recursive https://github.com/pysenu/cathook`)
+Clone Cathook (`git clone --recursive https://github.com/pysenu/doghook`)
 
 * `cd <name>`
 * `mkdir build && cd build`

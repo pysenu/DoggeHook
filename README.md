@@ -14,7 +14,7 @@ You can chat with other cathook users in [my official telegram group](https://t.
 
 ## Important
 
-Right now cathook isn't in its greatest state, a lot of things may not work/crash the game, please open issues on github using [this page](https://github.com/nullworks/cathook/issues).
+Right now cathook isn't in its greatest state, a lot of things may not work/crash the game, please open issues on github using [this page](https://github.com/pysenu/cathook/issues).
 
 ## Overview
 
@@ -32,7 +32,7 @@ and a lot of useful features, including
 * Follow Bots
 * Working crit hack (does not work right now (works right now))
 
-[FULL LIST OF FEATURES HERE](https://github.com/nullworks/cathook/wiki/List-of-features) (list might be outdated)
+[FULL LIST OF FEATURES HERE](https://github.com/pysenu/cathook/wiki/List-of-features) (list might be outdated)
 
 # INSTALLATION
 
@@ -46,7 +46,7 @@ You need CMake to build cathook, CMake should take care of dependencies
 
 Install libglez, libxoverlay and simple-ipc
 
-Clone Cathook (`git clone --recursive https://github.com/nullworks/cathook`)
+Clone Cathook (`git clone --recursive https://github.com/pysenu/cathook`)
 
 * `cd <name>`
 * `mkdir build && cd build`
@@ -107,7 +107,7 @@ If you don't use Ubuntu or Arch (or if Arch script gets outdated), here's the li
 
 Cathook installation script:
 ```bash
-git clone --recursive https://github.com/nullworks/cathook && cd cathook && bash build-tf2
+git clone --recursive https://github.com/pysenu/cathook && cd cathook && bash build-tf2
 ```
 
 **Errors while installing?**

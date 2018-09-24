@@ -1,4 +1,4 @@
-# Cathook Training Software
+# doghook TF2 cheat
 ![banner](http://i.imgur.com/w96wdtE.png)
 [![CircleCI](https://circleci.com/gh/nullworks/cathook.svg?style=svg)](https://circleci.com/gh/nullworks/cathook)
 

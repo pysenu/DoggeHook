@@ -2,7 +2,7 @@
  * AntiAim.cpp
  *
  *  Created on: Oct 26, 2016
- *      Author: nullifiedcat
+ *      Author: pysenu
  */
 
 #include <hacks/hacklist.hpp>
@@ -52,11 +52,17 @@ float GetAAAAPitch()
     switch ((int) aaaa_mode)
     {
     case 0:
-        return aaaa_stage ? -271 : -89;
+        return aaaa_stage ? -274 : -68;
     case 1:
         return aaaa_stage ? 271 : 89;
     case 2:
         return aaaa_stage ? -180 : 180;
+    case 3:
+        return aaaa_stage ? -1800082 : 1800082;
+    case 4:
+        return aaaa_stage ? -1800064 : 1800064;
+     case 5:
+        return aaaa_stage ? -7200037 : 7200087;
     default:
         break;
     }
@@ -574,7 +580,7 @@ void ProcessUserCmd(CUserCmd *cmd)
         p = flip ? 89.0f : -89.0f;
         break;
     case 5:
-        p     = flip ? 271.0f : -271.0f;
+        p     = flip ? 274.0f : -274.0f;
         clamp = false;
         break;
     case 6:

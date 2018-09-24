@@ -1,4 +1,4 @@
-# doghook TF2 cheat
+# DoggeHook TF2 cheat
 
 [![CircleCI](https://circleci.com/gh/nullworks/cathook.svg?style=svg)](https://circleci.com/gh/nullworks/cathook)
 
@@ -14,7 +14,7 @@ You can chat with other cathook users in [my official telegram group](https://t.
 
 ## Important
 
-Right now cathook isn't in its greatest state, a lot of things may not work/crash the game, please open issues on github using [this page](https://github.com/pysenu/cathook/issues).
+Right now cathook isn't in its greatest state, a lot of things may not work/crash the game, please open issues on github using [this page](https://github.com/pysenu/DoggeHook/issues).
 
 ## Overview
 
@@ -32,7 +32,7 @@ and a lot of useful features, including
 * Follow Bots
 * Working crit hack (does not work right now (works right now))
 
-[FULL LIST OF FEATURES HERE](https://github.com/pysenu/doghook/wiki/List-of-features) (list might be outdated)
+[FULL LIST OF FEATURES HERE](https://github.com/pysenu/DoggeHook/wiki/List-of-features) (list might be outdated)
 
 # INSTALLATION
 
@@ -46,7 +46,7 @@ You need CMake to build cathook, CMake should take care of dependencies
 
 Install libglez, libxoverlay and simple-ipc
 
-Clone Cathook (`git clone --recursive https://github.com/pysenu/doghook`)
+Clone Cathook (`git clone --recursive https://github.com/pysenu/DoggeHook`)
 
 * `cd <name>`
 * `mkdir build && cd build`
